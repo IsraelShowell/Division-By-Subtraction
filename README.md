@@ -16,3 +16,7 @@ Uploaded to Github
 
 # Current Features as of V-1.00:
 - Divides integers using only subtraction
+- Uses input validation to ensure we don't divide by 0
+
+# Future Features to Implement:
+- Allow users to multiply using addition only
